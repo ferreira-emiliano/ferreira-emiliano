@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Emiliano Ferreira :mexico:
+- 👀 I’m interested in Python, C# and JavaScript
+- 🌱 I’m currently learning C# and OOP
+- ⚙️ Working on my own projects and learning
+- 📫 How to reach me ferreira.emiliano97@outlook.com
